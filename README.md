@@ -1,4 +1,4 @@
 # pwa-pratique
 Cours PWA
 
-truc 2
+https://johnsmoothie.github.io/pwa-pratique/index.html
